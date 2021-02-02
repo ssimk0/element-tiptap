@@ -1,3 +1,10 @@
+## [1.26.4](https://github.com/ssimk0/element-tiptap/compare/@1.26.3...@1.26.4) (2021-02-02)
+
+
+### Bug Fixes
+
+* correct font sizes ([944c64c](https://github.com/ssimk0/element-tiptap/commit/944c64c2135e2caca29d6dddfe0ebdb969f4c7e6))
+
 ## [1.26.3](https://github.com/ssimk0/element-tiptap/compare/@1.26.2...@1.26.3) (2021-02-02)
 
 
