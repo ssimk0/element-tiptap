@@ -21,7 +21,6 @@ const dictionary = {
   ko,
   es,
   fr,
-  sk
 };
 
 export const Trans = {

@@ -12,6 +12,7 @@ export const DEFAULT_FONT_SIZES = [
   '16',
   '18',
   '20',
+  '22',
   '24',
   '30',
   '36',
