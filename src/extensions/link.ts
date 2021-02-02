@@ -62,6 +62,7 @@ export default class Link extends TiptapLink implements MenuBtnView {
     return [
       new Plugin({
         props: {
+          // @ts-ignore
           handleClick (view, pos) {
             const { schema, doc, tr } = view.state;
 
