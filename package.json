@@ -1,8 +1,8 @@
 {
   "name": "element-tiptap",
-  "version": "1.26.2",
+  "version": "1.26.3",
   "description": "🌸A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue.js",
-  "author": "leecason",
+  "author": "ssimk0",
   "scripts": {
     "serve": "vue-cli-service serve --open examples/main.js",
     "lint": "vue-cli-service lint",
@@ -89,12 +89,12 @@
     "prosemirror-model": "1.9.1"
   },
   "bugs": {
-    "url": "https://github.com/Leecason/element-tiptap/issues"
+    "url": "https://github.com/ssimk0/element-tiptap/issues"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
-  "homepage": "https://github.com/Leecason/element-tiptapr#readme",
+  "homepage": "https://github.com/ssimk0/element-tiptapr#readme",
   "keywords": [
     "editor",
     "element",
@@ -113,6 +113,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Leecason/element-tiptap.git"
+    "url": "https://github.com/ssimk0/element-tiptap.git"
   }
 }
