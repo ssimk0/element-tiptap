@@ -6,6 +6,14 @@
 * add conversion between pt and px ([65d78a0](https://github.com/ssimk0/element-tiptap/commit/65d78a00f2a566053bad9d212fd3f050529f9f73))
 * pasting text from MS office which have as unit of size pt ([5451d84](https://github.com/ssimk0/element-tiptap/commit/5451d84b105a4160c504bf758740498bc0e45e41))
 
+## [1.26.3](https://github.com/ssimk0/element-tiptap/compare/@1.26.2...@1.26.3) (2021-02-02)
+
+
+### Bug Fixes
+
+* add conversion between pt and px ([65d78a0](https://github.com/ssimk0/element-tiptap/commit/65d78a00f2a566053bad9d212fd3f050529f9f73))
+* pasting text from MS office which have as unit of size pt ([5451d84](https://github.com/ssimk0/element-tiptap/commit/5451d84b105a4160c504bf758740498bc0e45e41))
+
 ## [1.26.2](https://github.com/Leecason/element-tiptap/compare/@1.26.1...@1.26.2) (2020-08-21)
 
 
